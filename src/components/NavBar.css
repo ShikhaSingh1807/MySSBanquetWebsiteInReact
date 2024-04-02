@@ -1,0 +1,18 @@
+.navbg {
+    background-color: maroon;
+    /* border-bottom: 0.8em solid bisque; */
+}
+
+.logo_style {
+    height: 3em;
+    width: 3em;
+    margin-top: 0.5em;
+}
+
+
+.link_style {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 0.5em;
+}

@@ -1,0 +1,17 @@
+.corousel_img {
+    height: 80vh;
+    padding: 0.5em;
+    border: 1em solid bisque;
+}
+
+.msg {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: coral;
+}
+
+.sec_style {
+    margin: 0em 0.8em;
+    border-bottom: 5px solid maroon;
+}
